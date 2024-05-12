@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Sensor 2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="sensor" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="tr.com.akif.unlu.sensor.SensorApplication" />
+    <option name="VM_PARAMETERS" value="-Dsensor.id=sensor-2 -Dserver.port=8083 -Dsensor.x=784 -Dsensor.y=317" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="tr.com.akif.unlu.sensor.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
